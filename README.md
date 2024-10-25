@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jatin Kumar
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning python, DSA,C++ and Fundamentals of data science
-- 📫 Reach me jatinkumarsoni2004@gmail.com
+- 📫 Reach me jatin182006kumar@gmail.com
 - 😄 Pronouns: He
   
 
